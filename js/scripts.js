@@ -21,3 +21,5 @@ $('.ui.image.purple img')
     position: 'right center'
   })
 ;
+
+ $.scrollIt();
