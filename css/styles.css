@@ -38,3 +38,7 @@
 	font-family: CenturyGothic, sans-serif;
 	font-size: 1em;
 }
+
+ui.vertically.divided.grid {
+	margin-top: 50px;
+}
