@@ -26,12 +26,12 @@
 	margin-bottom: -10px;
 }
 
-.image {
-	padding: 75px 100px 10px 100px;
-}
-
 .left{
 	margin-left: -150px;
+}
+
+.map {
+	border-right: 1px solid #777;
 }
 
 .paragraph {
