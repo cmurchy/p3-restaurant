@@ -22,4 +22,3 @@ $('.ui.image.purple img')
   })
 ;
 
- $.scrollIt();

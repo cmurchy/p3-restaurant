@@ -22,7 +22,7 @@
 
 .headline {
 	font-family: BebasNeue, sans-serif;
-	font-size: 1.75em;
+	font-size: 1.25em;
 	margin-bottom: -10px;
 }
 
@@ -36,7 +36,7 @@
 
 .paragraph {
 	font-family: CenturyGothic, sans-serif;
-	font-size: 1em;
+	font-size: .65em;
 }
 
 ui.vertically.divided.grid {
